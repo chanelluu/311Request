@@ -1,0 +1,37 @@
+.title-panel{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 232px;
+  background: #ffffff;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  margin: 45px;
+  padding: 10px 30px 20px 34px;
+  outline: none;
+  opacity: 0.9;
+}
+p{
+	font-family: Helvetica;
+	color:#454545;
+}
+
+#title{
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(194, 53, 76);
+
+}
+
+.body{
+	font-size: 14px;
+
+}
+
+.note {
+	font-size:12px;
+}
+
+.note a {
+	color: #2ecde3;
+	text-decoration: none;
+}
